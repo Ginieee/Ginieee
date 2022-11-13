@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 #### Platforms & Languages
 <p>
 <img height='30px' src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp
-<img height='30px' src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <br/><br/>
+<img height='30px' src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img height='30px' src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img height='30px' src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img height='30px' src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
