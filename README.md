@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ginie's%20Github&fontSize=80&fontColor=fff)
+  
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ### 💪 skills
 #### ⚡ Platforms & Languages
@@ -40,7 +41,5 @@ Here are some ideas to get you started:
 
 
 ![Ginieee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginieee&theme=aura_dark&show_icons=true)
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 </div>
