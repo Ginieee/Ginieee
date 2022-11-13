@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ginieee/Ginieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
+<div>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ginie's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ginie's%20Github&fontSize=90&fontColor=fff)
 
 ### 💪 skills
 #### ⚡ Platforms & Languages
