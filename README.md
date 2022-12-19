@@ -17,8 +17,7 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CEBA9A&height=300&section=header&text=Ginie's%20Github&fontSize=90&fontColor=fff)
   
-  <h3>🌱Welcome message</h3>
-  <h4>Hi! I'm a student who studies hard in Korea.<br/>I'm currently learning Android and Web frontend. Please enjoy my github!</h4> 
+  <h3>🌱Welcome🌱</h3>
 
 ### 💪 skills
 #### Platforms & Languages
